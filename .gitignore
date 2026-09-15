@@ -1,0 +1,10 @@
+/prototypes/browser/Shared/
+__pycache__/
+*.pyc
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+.DS_Store
